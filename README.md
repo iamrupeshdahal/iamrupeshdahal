@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrupeshdahal&label=Profile%20views&color=0e75b6&style=flat" alt="iamrupeshdahal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rupeshdhl" target="blank"><img src="https://img.shields.io/twitter/follow/rupeshdhl?logo=twitter&style=for-the-badge" alt="rupeshdhl" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://rdahal.com.np](https://rdahal.com.np)
 
 - 📝 I regularly write articles on [https://rupeshdhl.com.np](https://rupeshdhl.com.np)
