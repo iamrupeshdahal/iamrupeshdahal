@@ -1,15 +1,11 @@
 
 <h1 align="center"> <img src="https://github.com/iamrupeshdahal/iamrupeshdahal/blob/main/hello.gif" alt="Rupesh Dahal"> <br >I'm <a href="https://instagram.com/_rupeshdahal">Rupesh Dahal</a>👨‍💻</h1>
 
-<a href="https://dev.to/iamrupeshdahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamrupeshdahal" height="30" width="40" /></a>
-<a href="https://twitter.com/rupeshdhl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rupeshdhl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamrupeshdahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamrupeshdahal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/iamrupeshdahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="iamrupeshdahal" height="30" width="40" /></a>
-<a href="https://fb.com/rupeshblog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rupeshblog" height="30" width="40" /></a>
-<a href="https://instagram.com/rupeshdhl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rupeshdhl" height="30" width="40" /></a>
-<a href="https://dribbble.com/rupeshdhl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="rupeshdhl" height="30" width="40" /></a>
-<a href="https://medium.com/@rupeshblog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rupeshblog" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rupeshdahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rupeshdahal" height="30" width="40" /></a>
+[![Instagram Badge](https://img.shields.io/badge/@iamrupeshdahal-30302f?style=flat&logo=twitter&logoColor=white)](https://instagram.com/_rupeshdahal)
+[![Linkedin Badge](https://img.shields.io/badge/iamrupeshdahal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rupeshdhl/)
+[![Facebook Badge](https://img.shields.io/badge/@iamrupeshdahal-30302f?style=flat&logo=twitter&logoColor=white)](https://facebook.com/rupeshblog)
+[![Medium Badge](https://img.shields.io/badge/imarupeshdahal-30302f?style=flat&logo=medium)](https://medium.com/@rupeshblog)
+[![Gmail Badge](https://img.shields.io/badge/iamrupeshdahal@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:iamrupeshdahal@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=iamrupeshdahal) 
 
 
