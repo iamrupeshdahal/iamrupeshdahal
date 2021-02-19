@@ -15,7 +15,7 @@
 ## Hi there 👋,           
 #### I'm Rupesh Dahal, A passionate frontend developer from Nepal , I am tech enthusiast, I love to build Web Application and currently focusing on Data Structures and Algorithms.  
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/iamrupeshdahal/iamrupeshdahal/blob/main/dev.gif" width="400px" />
 
 ## 🧐 About
 - 👨‍💻 All of my projects are available at [https://rdahal.com.np](https://rdahal.com.np)
