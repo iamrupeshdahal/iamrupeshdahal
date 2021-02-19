@@ -1,7 +1,7 @@
 
 <h1 align="center"> <img src="https://github.com/iamrupeshdahal/iamrupeshdahal/blob/main/hello.gif" alt="Rupesh Dahal"> <br >I'm <a href="https://instagram.com/_rupeshdahal">Rupesh Dahal</a>👨‍💻</h1>
 
-[![Instagram Badge](https://img.shields.io/badge/@iamrupeshdahal-30302f?style=flat&logo=twitter&logoColor=white)](https://instagram.com/_rupeshdahal)
+[![Instagram Badge](https://img.shields.io/badge/@iamrupeshdahal-30302f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_rupeshdahal)
 [![Linkedin Badge](https://img.shields.io/badge/iamrupeshdahal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rupeshdhl/)
 [![Facebook Badge](https://img.shields.io/badge/@iamrupeshdahal-30302f?style=flat&logo=twitter&logoColor=white)](https://facebook.com/rupeshblog)
 [![Medium Badge](https://img.shields.io/badge/imarupeshdahal-30302f?style=flat&logo=medium)](https://medium.com/@rupeshblog)
