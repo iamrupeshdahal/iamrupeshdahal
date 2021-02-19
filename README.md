@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="my gif" alt="Rupesh Dahal"> <br >I'm <a href="https://instagram.com/_rupeshdahal">Rupesh Dahal</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/iamrupeshdahal/iamrupeshdahal/blob/main/hello.gif" alt="Rupesh Dahal"> <br >I'm <a href="https://instagram.com/_rupeshdahal">Rupesh Dahal</a>👨‍💻</h1>
 
 <a href="https://dev.to/iamrupeshdahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamrupeshdahal" height="30" width="40" /></a>
 <a href="https://twitter.com/rupeshdhl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rupeshdhl" height="30" width="40" /></a>
