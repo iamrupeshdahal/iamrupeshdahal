@@ -10,6 +10,7 @@
 <a href="https://dribbble.com/rupeshdhl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="rupeshdhl" height="30" width="40" /></a>
 <a href="https://medium.com/@rupeshblog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rupeshblog" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rupeshdahal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="rupeshdahal" height="30" width="40" /></a>
+![](https://visitor-badge.glitch.me/badge?page_id=iamrupeshdahal) 
 
 
 ## Hi there 👋,           
